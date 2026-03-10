@@ -31,4 +31,4 @@ Sales_Dashboard_Project/
 
 ---
 
-Created for Deloitte Internship CV – Abhishek Sharma
+Developed By – Abhishek Sharma.
